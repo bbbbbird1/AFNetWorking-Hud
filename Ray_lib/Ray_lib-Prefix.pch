@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Ray_lib' target in the 'Ray_lib' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
